@@ -1,4 +1,4 @@
-# Artifitial-Intelligence
+# Artifitial Intelligence
 This repository consists in two projects submitted for Artifitial Intelligence (2020/2021), a curricular subject of CS Degree at IST.
 
 P1-Ricochet Robots: uses A* with a customized heuristic function to solved the classic Ricochet Robot game. Final Grade: 18.39/20
