@@ -5,4 +5,4 @@ P1-Ricochet Robots: uses A* with a customized heuristic function to solved the c
 
 P2-Learning Tree: implements the well known Decision Tree Learning algorithm with some added prunning methods to solve problems of overfitting. Final Grade: 20/20
 
-Both of this projects were in cooperation with [@ADEMA06](https://github.com/ADEMA06). 😄
+Both of these projects were in cooperation with [@ADEMA06](https://github.com/ADEMA06). 😄
